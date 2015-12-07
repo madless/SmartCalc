@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartCalc</string>
+    <string name="calculated_toast">CALCULATED</string>
+    <string name="calculation_error_toast">CALCULATION ERROR!</string>
+</resources>
